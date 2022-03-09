@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote alias="origin" fetch="https://github.com/" name="github" />
+  <project name="romanek-adam/git-repo-manifest-issue" path="../git-repo-manifest-issue" remote="github" revision="master" />
+</manifest>
